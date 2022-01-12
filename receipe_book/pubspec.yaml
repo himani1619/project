@@ -59,6 +59,9 @@ flutter:
     assets:
        - assets/images/
        - assets/lottie/
+       - assets/Jsonfiles/
+ 
+  
   #   - images/a_dot_ham.jpeg
     uses-material-design: true
 
