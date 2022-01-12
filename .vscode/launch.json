@@ -8,7 +8,10 @@
             "name": "receipe_book",
             "cwd": "receipe_book",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "args": [
+                "--no-sound-null-safety"
+               ]
         },
         {
             "name": "receipe_book (profile mode)",
